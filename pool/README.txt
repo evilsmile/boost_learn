@@ -1,0 +1,1 @@
+pool库包含四个组成部分：最简单的pool、分配类实例的object_pool、单件内存池singleton_pool和可用于标准库的pool_alloc。
